@@ -6,7 +6,7 @@ Google already has a Python module for
 this, but I think it's too complex, so
 I created my own.
 """
-__version__ = '0.1.0' # set version
+__version__ = '0.1.1' # set version
 __description__ = "A module for detecting text with profanity using Google's Perspective API."
 __author__ = "Rahul Wavare <rahulrakida@gmail.com>"
 from googleapiclient import discovery
