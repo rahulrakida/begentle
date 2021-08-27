@@ -12,8 +12,8 @@ First you will need a Google Cloud project API key with
 the Perspective API enabled. 
 
 Follow these two tutorials:
-`Tutorial 1: Getting Started <https://developers.perspectiveapi.com/s/docs-get-started>`_
-`Tutorial 2: Enable the API <https://developers.perspectiveapi.com/s/docs-enable-the-api>`_
+| `Tutorial 1: Getting Started <https://developers.perspectiveapi.com/s/docs-get-started>`_
+| `Tutorial 2: Enable the API <https://developers.perspectiveapi.com/s/docs-enable-the-api>`_
 
 Once you have your API key install the package::
 
