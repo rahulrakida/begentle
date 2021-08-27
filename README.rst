@@ -15,14 +15,12 @@ Follow these two tutorials:
 `Tutorial 1: Getting Started <https://developers.perspectiveapi.com/s/docs-get-started>`_
 `Tutorial 2: Enable the API <https://developers.perspectiveapi.com/s/docs-enable-the-api>`_
 
-Once you have your API key install the package:
-.. code-block:: bash
+Once you have your API key install the package::
 
     pip install begentle
 
-and use it like so:
-::
-
+and use it like so::
+    
     from begentle import CommentAnalyzer
     analyzer = CommentAnalyzer('YOUR_API_KEY')
     comment = 'You suck! I hate you, never come back.'
