@@ -30,3 +30,5 @@ You should see something like 0.9543847.
 This is a value between 0 and 1 representing toxicity.
 Generally toxic phrases return a value above 0.9.
 And that's it!
+
+Now read the `Documentation <https://rahulrakida.github.com/begentle/doc/begentle>`_
