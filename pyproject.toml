@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "begentle"
-version = "0.1.1"
+version = "0.1.2"
 description = "A module for filtering text with profanity using Google's Perspective API."
 authors = ["Rahul Wavare <rahulrakida@gmail.com>"]
 license = "MIT"
